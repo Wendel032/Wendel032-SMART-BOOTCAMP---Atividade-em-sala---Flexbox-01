@@ -41,12 +41,15 @@ h1 {
 .cor2 {
     background-color: #63B1BC;
     align-self: end;
+    position: fixed;
+    margin-left: 15%;
+
 }
 
 .cor3 {
     background-color: #EFB661;
     align-self: center;
-    
+    margin-right: 84%;
 }
 
 .instrucoes {
